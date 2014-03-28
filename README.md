@@ -1,4 +1,4 @@
-# geotrigger.js
+# geotrigger.js - Bjorns proxy version
 
 An API client for the [ArcGIS Geotrigger Service](https://developers.arcgis.com/en/geotrigger-service/).
 
